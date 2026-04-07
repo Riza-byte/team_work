@@ -4,11 +4,11 @@ import AccessTimeIcon from '@mui/icons-material/AccessTime';
 import AvTimerIcon from '@mui/icons-material/AvTimer';
 import DynamicFormIcon from '@mui/icons-material/DynamicForm';
 
-// Swiper kutubxonasi
+
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination, Autoplay, EffectCoverflow } from 'swiper/modules';
 
-// Swiper stillari
+
 import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
